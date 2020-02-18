@@ -88,4 +88,3 @@ Chat.defaultProps = {
 };
 
 export default Chat;
-
